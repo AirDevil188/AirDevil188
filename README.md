@@ -1,1 +1,1 @@
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,jest,vitest,webpack,vite,styledcomponents,npm,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,pug,jest,vitest,webpack,vite,styledcomponents,npm,git)
